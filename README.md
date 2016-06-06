@@ -10,7 +10,6 @@ spcial thanks to @sweetchip @reset
 
 ###Python3
 test environment is Python 3.4.2
--> subprocess
 
 ###shellscript 
 dailybash use shellscript to upload bash's image
